@@ -10,7 +10,7 @@ Creo que lo primero que hace un jugador antes de iniciar una partida, es verific
 </div>
 
 ## 2. Tutorial y HUD:
-2.1. Tutorial: El prompt de movimiento solo indica "WAD", omitiendo la "S". Un error de documentación básico que confunde en el primer contacto.
+2.1. Tutorial: El prompt de movimiento solo indica "WAD", omitiendo la "S". Un error de documentación básico que confunde en el primer contacto.<br>
 2.2. HUD: Es demasiado invasivo en la esquina superior izquierda, restando visión al entorno. Se podría pulir ese diseño y hacerlo una interfaz mas limpia.
 <div align="center">
   <img src="02-tutorial.png" alt="Settings Menu" width="700px">
