@@ -24,8 +24,8 @@ HUD Layout: The resource bars in the upper left corner occupy too much screen re
 
 ## 3. Video Settings & Accessibility:
 The current video menu lacks essential features such as a Frame Rate Limiter (FPS Cap), Motion Blur toggle, and Camera Shake intensity. These options are vital for accessibility, especially for players who suffer from motion sickness or other health-related sensitivities. Implementing these is crucial for a professional user experience.
-
-These are my initial impressions. I understand the game is in active development, and I provide this feedback to help refine the player's "First Time User Experience" (FTUE).
 <div align="center">
   <img src="03-video-settings.png" alt="Settings Menu" width="700px">
 </div>
+
+These are my initial impressions. I understand the game is in active development, and I provide this feedback to help refine the player's "First Time User Experience" (FTUE).
