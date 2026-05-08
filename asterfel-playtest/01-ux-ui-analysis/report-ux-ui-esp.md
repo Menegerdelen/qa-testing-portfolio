@@ -22,6 +22,7 @@ Encuentro que faltan opciones importantes a la hora de configurar las opciones d
   <img src="03-video-settings.png" alt="Settings Menu" width="700px">
 </div>
 
-Esas fueron mis primeras impresionas con solo abrir el juego, pueden parecer básicas, pero para un juego que lleva 5 años en desarrollo, me parece que no deberian omitir este tipo de detalles que definen la calidad de la First Time User Experience (FTUE). 
+<br><br>
+Esas fueron mis primeras impresiones con solo abrir el juego, pueden parecer básicas, pero para un juego que lleva 5 años en desarrollo, me parece que no deberian omitir este tipo de detalles que definen la calidad de la First Time User Experience (FTUE). 
 
 No abordaré aún la jugabilidad, misiones o el rendimiento profundo... Ya que me dio mareos con hacer el tutorial 😅 (se nota la ausencia de esas opciones de vídeo) , asi que planeo dedicarle más horas para un reporte técnico completo.
