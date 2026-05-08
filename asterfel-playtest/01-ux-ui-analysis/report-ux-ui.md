@@ -9,7 +9,7 @@ Initial testing focused on **First Time User Experience (FTUE)**, **Accessibilit
 ## 1. Absence of a "Settings" menu on the Title Screen:
 As a standard practice, players check settings before starting a session to align the game with their hardware specs. Forcing an automatic configuration upon starting a match can lead to poor performance (low FPS) or stability issues if the default settings are inadequate for the user's rig.
 <div align="center">
-  <img src=".01-menu-inicio.png" alt="Settings Menu" width="500px">
+  <img src="01-menu-inicio.png" alt="Settings Menu" width="700px">
 </div>
 
 
@@ -18,7 +18,7 @@ Keybinds: The movement tutorial only mentions "WAD", omitting the "S" key. This 
 
 HUD Layout: The resource bars in the upper left corner occupy too much screen real estate, obstructing the player's field of view. A more minimalist or less invasive HUD would significantly improve the visual experience.
 <div align="center">
-  <img src=".02-tutorial.png" alt="Settings Menu" width="500px">
+  <img src="02-tutorial.png" alt="Settings Menu" width="700px">
 </div>
 
 
@@ -27,5 +27,5 @@ The current video menu lacks essential features such as a Frame Rate Limiter (FP
 
 These are my initial impressions. I understand the game is in active development, and I provide this feedback to help refine the player's "First Time User Experience" (FTUE).
 <div align="center">
-  <img src=".03-video-settings.png" alt="Settings Menu" width="500px">
+  <img src="03-video-settings.png" alt="Settings Menu" width="700px">
 </div>
