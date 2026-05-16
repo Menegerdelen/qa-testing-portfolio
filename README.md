@@ -28,7 +28,7 @@ To ensure high-performance testing and stability, I use the following equipment:
 * **Desktop PC:**
     * **CPU:** AMD Ryzen 7 5700X3D
     * **GPU:** NVIDIA RTX 2070 SUPER
-    * **RAM:** 32 GB DDR4
+    * **RAM:** 24 GB DDR4
     * **Storage:** Lexar NM790 1TB SSD
 * **Notebook (Legacy/Low-End Testing):**
     * **CPU:** Intel i7 7700HQ
